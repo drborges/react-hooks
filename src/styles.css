@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input.field-valid {
+  border: thin solid green;
+}
+
+input.field-invalid {
+  border: 2px dashed red;
+}
